@@ -4,7 +4,6 @@ from PIL import Image
 
 # Set custom page title and favicon + use entire width of browser area
 image = Image.open('Professional rounded headshot.png')
-image_sidebar = Image.open('Professional rounded headshot sidebar.png')
 
 st.set_page_config(page_title="Resume App", page_icon = image, layout="wide", initial_sidebar_state="expanded")
 
@@ -261,7 +260,6 @@ with st.sidebar:
     
     # Define objects in sidebar
     
-    #st.image(image_sidebar, use_column_width=True) ---- sidebar image centered and scaling with window
     st.title('Details')
     st.markdown("**Address**")
     st.markdown("Jolleveld 4, 9890 Asper, Belgium")
