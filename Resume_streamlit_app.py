@@ -173,7 +173,7 @@ txt('**CRM Specialist**, *Accent Jobs*, Roeselare',
 '*January 2021 - Present*')
 txt('''
 An interesting mix between Business Analyst, Data Analyst/Scientist and Marketing Automation
-Specialist. My responsibilities include too a large extent developing and implementing
+Specialist. My responsibilities include to a large extent developing and implementing
 both ad hoc and automatic campaigns in all sorts of forms (e.g. onboarding journey) on a structural but substantive level as well. However, responsibilities also include: monitoring data quality and preserving data integrity, resolving gaps in the data structure, and continuously looking for business problems to address (especially on the intersection between Marketing and Sales). 
 
 Lately with the arrival of a brand-new Customer Data Platform (CDP), Data Integration with respect to how multiple systems (CRM, ATS and others) communicate with one another and ensuring there's only one source of truth, has become more important than ever. Alongside, since I've got a Data Science background that I like to put into practice, I've been involved in the company's first two Data Science Projects. One of which I'm developing myself, whereas in the other one I've taken on the role of SPOC. One thing I greatly appreciate is an ever-present problem solving component that I'm eagerly pursuing. Furthermore, dashboarding, data analysis in a broad sense and a fair bit of exploration and experimentation (e.g. building prototypes that can be tested in practice) are quite prevalent as well. Some project management on a regular basis is required in order to keep things on track.
