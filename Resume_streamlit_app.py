@@ -287,7 +287,7 @@ with st.sidebar:
     st.write('')
 
     st.title('Personal Tidbits')
-    st.markdown("- Triathlon/endurance sports aficionado(Competitive and ambitious Age Grouper)")
+    st.markdown("- Triathlon/endurance sports aficionado (Competitive and ambitious Age Grouper)")
     st.markdown("- Loves the untouched beauty of nature, mountains in particular")
     st.markdown("- Solar-powered soul (thriving on sunshine)")
     st.markdown("- Culinary explorer (enjoys good, healthy and uncomplicated eats)")
