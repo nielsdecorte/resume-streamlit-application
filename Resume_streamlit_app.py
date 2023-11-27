@@ -61,7 +61,7 @@ st.markdown('## Profile Summary', unsafe_allow_html=True)
 #st.markdown(f'<p style="color:#93827F;font-size:24px;">{"Hello world!"}</p>', unsafe_allow_html=True)
 
 intro = '''On both a professional and personal level I perceive myself as a thoughtful and self-conscious person with a (sometimes too) hefty dose of perfectionism and a considerable amount of perseverance. I like to see it as 'an eagerness to always want to do well'. Also modest and pretty talkative, but straightforward and often brutally honest nonetheless.
-As I tend to challenge and push myself persistently I can therefore also be quite demanding towards others at times. Having the urge to become and perform better is part of who I am naturally. Hence it should not come as a big surprise that I'm also a competitive triathlete, aiming to participate in the 2023 Ironman 70.3 WC for age groupers in Finland. I love the consistency, tremendous commitment and freedom (e.g. being in nature) that triathlon brings me in life. It truly is a lifestyle!
+As I tend to challenge and push myself persistently I can therefore also be quite demanding towards others at times. Having the urge to become and perform better is part of who I am naturally. Hence it should not come as a big surprise that I'm also a competitive triathlete, aiming to participate in the 2025 Ironman 70.3 WC for age groupers. I love the consistency, tremendous commitment and freedom (e.g. being in nature) that triathlon brings me in life. It truly is a lifestyle!
 Professionally, a clear and straightforward vision, combined with strong foundations and efficient working methodologies are important elements for me as a 'planner-type'. However, I do appreciate a dynamic/flexible environment where there's room for initiative and personal development is encouraged.
 Finally, I'm used to working autonomously, but I prefer to have team members around me with whom you can exchange thoughts every now and then. That's how I learn new things quickly, since I consider my capacity to learn as maybe my biggest talent.'''
 
@@ -286,13 +286,13 @@ with st.sidebar:
     
     st.write('')
 
-    st.title('Hobbies')
-    st.markdown("- Triathlete (Competitive and ambitious Age Grouper)")
-    st.markdown("- Loves spending time in nature")
-    st.markdown("- Solar-powered (enjoys sunny weather)")
-    st.markdown("- Enjoys good, healthy and simple food")
-    st.markdown("- Self-teaching the topic of Exercise Physiology")
-    st.markdown("- Building Data Science tools and projects through experimentation")
+    st.title('Personal Tidbits')
+    st.markdown("- Triathlon/endurance sports aficionado(Competitive and ambitious Age Grouper)")
+    st.markdown("- Loves the untouched beauty of nature, mountains in particular")
+    st.markdown("- Solar-powered soul (thriving on sunshine)")
+    st.markdown("- Culinary explorer (enjoys good, healthy and uncomplicated eats)")
+    st.markdown("- Self-taught amauteur sports scientist")
+    st.markdown("- Data Science hobbyist (experimenting with pet projects)")
     
     # Design Configuration
     st.markdown(
