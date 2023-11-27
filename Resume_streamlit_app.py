@@ -55,24 +55,6 @@ with col4:
 with col5:
     st.write("")
 
-st.markdown('## Headline', unsafe_allow_html=True)
-
-headline = '''🚀 Ambitious Data Scientist | Endurance Sports Aficionado 🏊‍♂️🚴‍♂️🏃‍♂️ | Problem Solver & Tech Geek 💡
-
-
-I'm a passionate Data Scientist with an insatiable appetite for learning and a penchant for solving complex puzzles. 🧩 My journey in the world of data is driven by a thirst for knowledge and a desire to engineer solutions that unlock business potential. 💼
-
-🔍 Data Science & Analytics Engineering: My mission? To become the Sherlock Holmes of Data Science and Analytics Engineering. 🕵️‍♂️ I thrive on deciphering data mysteries and turning them into actionable insights. 📊
-
-🏊‍♂️ Endurance Sports Enthusiast: When I'm not crunching numbers, you'll find me conquering triathlons and embracing the joy of endurance sports. 🏆 I've learned that the same principles of persistence, discipline, and continuous improvement that apply in data science also fuel my athletic pursuits. 🏅
-
-💡 Tech-Driven Problem Solver: I get a kick out of building data-oriented, tech-driven solutions that not only crack unsolved business problems but also add tangible value. 💰 Innovation is my middle name, and I'm always on the lookout for new challenges to tackle. 💪
-
-🔬 The Science of High Performance: Beyond my professional interests, I'm captivated by the fascinating world of exercise physiology and the science behind peak performance in endurance sports. 🤓
-'''
-
-st.markdown(f'<p style="color:#262730;background-color:#FFDAB9;padding: 20px;border-radius: 15px;">{intro}</p>', unsafe_allow_html=True)
-
 st.markdown('## Profile Summary', unsafe_allow_html=True)
 
 # HTML code to customize text within Python code
@@ -305,7 +287,7 @@ with st.sidebar:
     st.write('')
 
     st.title('Personal Tidbits')
-    st.markdown("- Triathlon/endurance sports aficionado (Competitive and ambitious Age Grouper)")
+    st.markdown("- Triathlon/endurance sports aficionado(Competitive and ambitious Age Grouper)")
     st.markdown("- Loves the untouched beauty of nature, mountains in particular")
     st.markdown("- Solar-powered soul (thriving on sunshine)")
     st.markdown("- Culinary explorer (enjoys good, healthy and uncomplicated eats)")
