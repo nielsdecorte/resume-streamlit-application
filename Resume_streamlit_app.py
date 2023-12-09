@@ -212,14 +212,13 @@ clustering techniques or algorithms.
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `SQL`, `Pyspark`')
-txt3('Data processing/wrangling', '`SQL`, `Pandas`, `Numpy`, `Microsoft Office Suite`')
-txt3('Data visualization', '`Matplotlib`, `Seaborn`, `Plotly`, `Power BI`')
-txt3('Machine Learning', '`Scikit-learn`')
-txt3('Deep Learning', '`TensorFlow`')
-txt3('Web development', '`HTML`, `CSS`')
-txt3('Model deployment', '`Streamlit`, `Azure ML`')
-txt3('Marketing Automation', '`Selligent`')
+txt3('Languages', '`Python`, `SQL`, `R`, `HTML (reading ability)`, `CSS (reading ability)`')
+txt3('Tools', '`Power BI`, `Microsoft Office Suite`,`Streamlit`, `Azure Services`')
+txt3('Libraries', '`Matplotlib`, `Pandas`, `Numpy`, `Seaborn`, `Plotly`, `Scikit-learn`, `TensorFlow`, `Pyspark`')
+txt3('Databases', '`SQL Server`')
+txt3('Cloud', '`Azure`')
+txt3('Marketing Automation Platform', '`Selligent`')
+txt3('Customer Data Platform', '`BlueConic`')
 
 #####################
 st.markdown('''
@@ -287,7 +286,7 @@ with st.sidebar:
     st.write('')
 
     st.title('Personal Tidbits')
-    st.markdown("- Triathlon/endurance sports aficionado(Competitive and ambitious Age Grouper)")
+    st.markdown("- Triathlon/endurance sports aficionado (competitive and ambitious Age Grouper)")
     st.markdown("- Loves the untouched beauty of nature, mountains in particular")
     st.markdown("- Solar-powered soul (thriving on sunshine)")
     st.markdown("- Culinary explorer (enjoys good, healthy and uncomplicated eats)")
