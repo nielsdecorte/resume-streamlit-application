@@ -169,7 +169,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**CRM Specialist**, *Accent Jobs*, Roeselare',
+txt('**Data Analyst**, *Accent Jobs*, Roeselare',
 '*January 2021 - Present*')
 txt('''
 An interesting mix between Business Analyst, Data Analyst/Scientist and Marketing Automation
