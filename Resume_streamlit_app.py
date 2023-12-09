@@ -55,7 +55,13 @@ with col4:
 with col5:
     st.write("")
 
-st.text('''In both my professional and personal pursuits, I embody thoughtfulness, self-awareness, and a healthy dose of perfectionism, all fueled by a relentless eagerness to excel. I’m known for being modest yet quite talkative, with a straightforward and brutally honest communication style.
+
+st.markdown('## Profile Summary', unsafe_allow_html=True)
+
+# HTML code to customize text within Python code
+#st.markdown(f'<p style="color:#93827F;font-size:24px;">{"Hello world!"}</p>', unsafe_allow_html=True)
+
+intro = ('''In both my professional and personal pursuits, I embody thoughtfulness, self-awareness, and a healthy dose of perfectionism, all fueled by a relentless eagerness to excel. I’m known for being modest yet quite talkative, with a straightforward and brutally honest communication style.
 
 On the professional front, I bring a clear and straightforward vision, anchored in strong foundations and efficient methodologies, aligning with my dominant blue personality. However, I thrive in dynamic, flexible environments that encourage initiative, entrepreneurship, and personal development. My approach combines autonomy with a preference for collaborative teamwork, as I believe exchanging thoughts with teammates accelerates my learning curve.
 
@@ -65,15 +71,6 @@ In every endeavor, whether crunching numbers or conquering triathlons, I'm drive
 
 Beyond the professional realm, my fascination extends to the science of high performance, delving into exercise physiology and the intricacies of peak performance in endurance sports.''')
 
-st.markdown('## Profile Summary', unsafe_allow_html=True)
-
-# HTML code to customize text within Python code
-#st.markdown(f'<p style="color:#93827F;font-size:24px;">{"Hello world!"}</p>', unsafe_allow_html=True)
-
-intro = '''On both a professional and personal level I perceive myself as a thoughtful and self-conscious person with a (sometimes too) hefty dose of perfectionism and a considerable amount of perseverance. I like to see it as 'an eagerness to always want to do well'. Also modest and pretty talkative, but straightforward and often brutally honest nonetheless.
-As I tend to challenge and push myself persistently I can therefore also be quite demanding towards others at times. Having the urge to become and perform better is part of who I am naturally. Hence it should not come as a big surprise that I'm also a competitive triathlete, aiming to participate in the 2025 Ironman 70.3 WC for age groupers. I love the consistency, tremendous commitment and freedom (e.g. being in nature) that triathlon brings me in life. It truly is a lifestyle!
-Professionally, a clear and straightforward vision, combined with strong foundations and efficient working methodologies are important elements for me as a 'planner-type'. However, I do appreciate a dynamic/flexible environment where there's room for initiative and personal development is encouraged.
-Finally, I'm used to working autonomously, but I prefer to have team members around me with whom you can exchange thoughts every now and then. That's how I learn new things quickly, since I consider my capacity to learn as maybe my biggest talent.'''
 
 st.markdown(f'<p style="color:#262730;background-color:#FFDAB9;padding: 20px;border-radius: 15px;">{intro}</p>', unsafe_allow_html=True)
 
