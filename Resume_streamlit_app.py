@@ -55,6 +55,16 @@ with col4:
 with col5:
     st.write("")
 
+st.text('''In both my professional and personal pursuits, I embody thoughtfulness, self-awareness, and a healthy dose of perfectionism, all fueled by a relentless eagerness to excel. I’m known for being modest yet quite talkative, with a straightforward and brutally honest communication style.
+
+On the professional front, I bring a clear and straightforward vision, anchored in strong foundations and efficient methodologies, aligning with my dominant blue personality. However, I thrive in dynamic, flexible environments that encourage initiative, entrepreneurship, and personal development. My approach combines autonomy with a preference for collaborative teamwork, as I believe exchanging thoughts with teammates accelerates my learning curve.
+
+As an ambitious Data Practitioner, I'm on a mission to be the Sherlock Holmes of Data Science and Analytics Engineering. I relish deciphering data mysteries and transforming them into actionable insights. Beyond the world of algorithms, I'm a competitive triathlete, aiming for the 2025 Ironman 70.3 WC. Triathlon, for me, is not just a sport but a lifestyle, offering consistency, tremendous commitment, and the freedom of being in nature.
+
+In every endeavor, whether crunching numbers or conquering triathlons, I'm driven by principles of persistence, discipline, and continuous improvement. As a tech-driven problem solver, I derive satisfaction from building data-oriented solutions that crack business problems and add tangible business value. Innovation is not just a concept but my middle name, and I'm always seeking new challenges to tackle.
+
+Beyond the professional realm, my fascination extends to the science of high performance, delving into exercise physiology and the intricacies of peak performance in endurance sports.''')
+
 st.markdown('## Profile Summary', unsafe_allow_html=True)
 
 # HTML code to customize text within Python code
