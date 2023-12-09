@@ -261,7 +261,7 @@ with st.sidebar:
     
     st.title('Details')
     st.markdown("**Headline**")
-    st.markdown("🚀 Ambitious Data Professional | Endurance Sports Aficionado 🏊‍♂️🚴‍♂️🏃‍♂️ | Problem Solver & Tech Geek 💡")
+    st.markdown("🚀 Ambitious Data Professional | Triathlete 🏊‍♂️🚴‍♂️🏃‍♂️ | Problem Solver & Tech Geek 💡")
     st.markdown("**Address**")
     st.markdown("Jolleveld 4, 9890 Asper, Belgium")
     st.markdown("**Phone number**")
