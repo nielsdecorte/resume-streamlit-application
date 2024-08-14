@@ -219,8 +219,8 @@ st.markdown('''
 txt3('Languages', '`Python`, `SQL`, `R`, `HTML (reading ability)`, `CSS (reading ability)`')
 txt3('Tools', '`Power BI`, `Microsoft Office Suite`,`Streamlit`, `Azure Services`')
 txt3('Libraries', '`Matplotlib`, `Pandas`, `Numpy`, `Seaborn`, `Plotly`, `Scikit-learn`, `TensorFlow`, `Pyspark`')
-txt3('Databases', '`SQL Server`', '`PostgreSQL`')
-txt3('Cloud', '`Azure`', '`GCP (limited)`', '`Databricks (limited)`')
+txt3('Databases', '`SQL Server`, `PostgreSQL`')
+txt3('Cloud', '`Azure`, `GCP (limited)`,`Databricks (limited)`')
 txt3('Marketing Automation Platform', '`Selligent`')
 txt3('Customer Data Platform', '`BlueConic`')
 
